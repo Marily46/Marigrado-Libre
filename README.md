@@ -18,7 +18,7 @@ Su hijo Ángel, que es programador, le ha dicho que Mercado Libre tiene una API 
 - [x] Las categorías deberían iniciar contraídas, y al hacer click un botón de `-` o `+` deberían expandirse o contraerse individualmente.
 - [x] Las categorías deberían mantener su estado de expansión/contracción al navegar entre rutas.
 - [x] Al clickear una categoría, deberíamos navegar a la ruta `/[category_id]` correspondiente.
-- [ ] Al clickear un producto debería redirigirnos a la web de Mercado Libre para ese producto.
+- [x] Al clickear un producto debería redirigirnos a la web de Mercado Libre para ese producto.
 
 ## Ejemplo
 [![Ejemplo](./assets/mock.png)](./assets/mock.png)
